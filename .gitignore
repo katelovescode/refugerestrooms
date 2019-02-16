@@ -59,3 +59,5 @@ ruby
 /node_modules
 yarn-debug.log*
 .yarn-integrity
+
+.ruby-gemset
